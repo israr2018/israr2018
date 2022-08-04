@@ -12,4 +12,4 @@ I used the following daabases
 - Postgress
 -Elastic Search
 
-I write  code based on SOILD  princple .
+I write  code based on SOILD  principle .
