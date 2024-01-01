@@ -5,6 +5,8 @@ experience in JavaScript.I am proficient in the following tools and technolgies:
 - ReactJS
 - VueJS
 - NestJS
+- NestJS
+- Docker
 
 I used the following daabases
 - Mongodb
